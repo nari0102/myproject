@@ -6,4 +6,4 @@
  
 sum=$(( $a + $b ))
  
-echo "$sum"
+echo "the total value is :$sum"
